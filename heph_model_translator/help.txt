@@ -1,0 +1,11 @@
+"\e[1mHephaestus Model Translator Manual:\e[m\n"
+"\n"
+"This program serves to easily translate your OBJ, STL, and GLTF models\n"
+"into the prefered HMODL file format.\n"
+"\n"
+"Specify source type: -t [OBJ/GLTF/STL]\n"
+"Ex: '-t OBJ'\n"
+"\n"
+"Specify source path: -s [path]\n"
+"Ex: '-s Users\\bob\\models\\car.obj'\n"
+
